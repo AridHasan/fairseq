@@ -15,7 +15,7 @@ CLEAN=$SCRIPTS/training/clean-corpus-n.perl
 BPEROOT=subword-nmt
 BPE_TOKENS=10000
 
-URL="https://drive.google.com/open?id=1pQOXv6dvuaRCdeF34IOTHZuGQqIsrjAD"
+URL="https://www.dropbox.com/s/yle32lmt06x8lw4/de-en.tgz"
 GZ=de-en.tgz
 
 if [ ! -d "$SCRIPTS" ]; then
