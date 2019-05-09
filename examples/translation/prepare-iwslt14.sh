@@ -15,7 +15,7 @@ CLEAN=$SCRIPTS/training/clean-corpus-n.perl
 BPEROOT=subword-nmt
 BPE_TOKENS=10000
 
-URL="https://wit3.fbk.eu/archive/2014-01/texts/de/en/de-en.tgz"
+URL="https://drive.google.com/open?id=1pQOXv6dvuaRCdeF34IOTHZuGQqIsrjAD"
 GZ=de-en.tgz
 
 if [ ! -d "$SCRIPTS" ]; then
